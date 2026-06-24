@@ -1,7 +1,7 @@
 # Soc-Analyst-Portfolio 
 
 # About Me.
-Aspiring SOC Analyst with hands-on experience in thresst detection, incident response, SIEM investigtions and cloud security.
+Aspiring SOC Analyst with hands-on experience in threat detection, incident response, SIEM investigtions and cloud security.
 Currently developing practical cybersecurity skills through
 - Microsoft Learn
 - Microsoft Sentinel Labs
@@ -17,7 +17,7 @@ Currently developing practical cybersecurity skills through
                              -Ethernet networking
                              -Routing Concepts
                              -Wireless networking
-                            - Network troubleshooting
+                             -Network troubleshooting
   - Microsoft Certified: Azure Fundamentals (AZ-900)
   - Microsoft Certified: Security,Compliance,and Identity Fundamentals (SC-900)
   - Microsoft Certified: Azure Administrator Associate (AZ-104)
