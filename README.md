@@ -12,12 +12,12 @@ Currently developing practical cybersecurity skills through
   # Certifications & Learning
   - Cisco Networking Acdemy: Networking Basics
     
-                             -Networking Fundamentals
-                             -IPV4 and IPV6
-                             -Ethernet networking
-                             -Routing Concepts
-                             -Wireless networking
-                             -Network troubleshooting
+                              -Networking Fundamentals
+                              -IPV4 and IPV6
+                              -Ethernet networking
+                              -Routing Concepts
+                              -Wireless networking
+                              -Network troubleshooting
   - Microsoft Certified: Azure Fundamentals (AZ-900)
   - Microsoft Certified: Security,Compliance,and Identity Fundamentals (SC-900)
   - Microsoft Certified: Azure Administrator Associate (AZ-104)
