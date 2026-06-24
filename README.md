@@ -1,7 +1,7 @@
 # Soc-Analyst-Portfolio 
 
 # About Me.
-Aspiring SOC Analystwith hands-on experience in thresst detection, incident response, SIEM investigtions and cloud security.
+Aspiring SOC Analyst with hands-on experience in thresst detection, incident response, SIEM investigtions and cloud security.
 Currently developong Practical Cybersecurity skills through
 - Microsoft Learn
 - Microsoft Sentinel Labs
