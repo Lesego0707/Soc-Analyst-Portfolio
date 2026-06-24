@@ -10,7 +10,7 @@ Currently developing practical cybersecurity skills through
 - Security Projects
 
   # Certifications & Learning
-  - Cisco Networking Acdemy: Networking Basics
+  - Cisco Networking Academy: Networking Basics
     
                               -Networking Fundamentals
                               -IPV4 and IPV6
