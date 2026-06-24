@@ -2,7 +2,7 @@
 
 # About Me.
 Aspiring SOC Analyst with hands-on experience in thresst detection, incident response, SIEM investigtions and cloud security.
-Currently developing Practical Cybersecurity skills through
+Currently developing practical cybersecurity skills through
 - Microsoft Learn
 - Microsoft Sentinel Labs
 - Splunk Labs
