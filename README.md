@@ -13,8 +13,11 @@ Currently developing practical cybersecurity skills through
   - Cisco Networking Acdemy: Networking Basics
 
    Skills Learned:  -Networking Fundamentals
+  
                     -IPV4 and IPV6
+  
                     -Ethernet networking
+  
                     *Routing Concepts
                     *Wireless networking
                     *Network troubleshooting
