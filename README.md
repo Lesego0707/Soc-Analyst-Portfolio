@@ -17,7 +17,7 @@ Currently developing practical cybersecurity skills through
 
   # Technical Skills
   - SIEM: Microsoft Sentinel, Splunk
-  - Cloud Security: Microdoft Azure
+  - Cloud Security: Microsoft Azure
   - Threat Hunting
   - Incident Response
   - KQL (Kusto Query Language)
