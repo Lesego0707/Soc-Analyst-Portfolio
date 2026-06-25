@@ -21,7 +21,7 @@ Currently developing practical cybersecurity skills through
   - Microsoft Certified: Azure Fundamentals (AZ-900)
   - Microsoft Certified: Security,Compliance,and Identity Fundamentals (SC-900)
   - Microsoft Certified: Azure Administrator Associate (AZ-104)
-  - Microsoft Applied Skills: Defeding Azure XDR
+  - Microsoft Applied Skills: Defend against cyberthreat with Microsoft Defender XDR
 
   # Technical Skills
   - SIEM: Microsoft Sentinel, Splunk
